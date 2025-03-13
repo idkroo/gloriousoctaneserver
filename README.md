@@ -1,1 +1,25 @@
 # gloriousoctaneserver
+
+Hi!
+this is sum repos for storing the mods, you can use the server on bedrock **for now** but uhh heres some of the mods
+
+# Server Address
+hosted in aternos, for now. we couldnt find any singaporean/asian hosting so idk
+```http
+gloriousoctane.aternos.me
+```
+### Server version : 1.20.1 Java or bedrock
+---
+# mods
+Theres 3 option, i mean 4.
+### 1. Not using any mods
+If you are in bedrock, thats ok, but if you have java, considering using the mods, thx.
+
+### 2. Lightweight ( fabric )
+44 reccomended mods. Its better than nothing. sodium and oculus included.
+
+### 3. Still Light
+46 reccomended mods, With distant Horizon included so you dont have to crank that Render distance for looking far away. reccomended with shader.
+
+### 4. Absolute Cool
+47 Mods, fairly optimized.
