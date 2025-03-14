@@ -8,7 +8,10 @@ hosted in aternos, for now. we couldnt find any singaporean/asian hosting so idk
 ```http
 gloriousoctane.aternos.me
 ```
-### Server version : 1.20.1 Java or bedrock
+```http
+39031
+```
+### Server version : 1.21.1 Java or bedrock, Viaversion included
 ---
 # mods
 Theres 3 option, i mean 4.
