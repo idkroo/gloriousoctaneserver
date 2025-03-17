@@ -6,7 +6,7 @@ this is sum repos for storing the mods, you can use the server on bedrock **for 
 # Server Address
 hosted in aternos, for now. we couldnt find any singaporean/asian hosting so idk
 ```http
-gloriousoctane.aternos.me
+gloriousoctane.com
 ```
 ```http
 39031
