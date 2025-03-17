@@ -11,6 +11,7 @@ gloriousoctane.com
 ```http
 39031
 ```
+Stats : Offline ( Deprecated : Domain Expired )
 ### Server version : 1.21.1 Java or bedrock, Viaversion included
 ---
 # mods
